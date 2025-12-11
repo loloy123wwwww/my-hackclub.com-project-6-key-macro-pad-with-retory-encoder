@@ -1,4 +1,8 @@
 Here is my first project of macropad i made it in Kicad and fusion 360 it has 6 keys and 1 rotary encoder everything is powered by XIAO board firmware coded i  pythone using kmk library and board library that's pretty much everything
+<img width="1168" height="523" alt="image" src="https://github.com/user-attachments/assets/0c4fac72-4938-4583-85ce-c4c368334a14" />
+<img width="1060" height="525" alt="image" src="https://github.com/user-attachments/assets/2f6656de-e712-40ba-aa5b-156a90fc3c21" />
+
+
 <img width="903" height="619" alt="image" src="https://github.com/user-attachments/assets/8c52e1e4-15ac-411b-95a1-fa1c0a5babce" />
 <img width="1135" height="566" alt="image" src="https://github.com/user-attachments/assets/3a6f0bc7-98a9-4824-96ea-3a3815be23cc" />
 <img width="1286" height="556" alt="image" src="https://github.com/user-attachments/assets/9aaef77e-6c79-439d-82c9-930a097fcc61" />
